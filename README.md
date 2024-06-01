@@ -7,7 +7,13 @@ Welcome to my SQL Projects repository! Here you'll find a collection of projects
     Tools & Techniques: 
     Links:
 
+#### Project 2: 
+    Description: 
+    Tools & Techniques: 
+    Links:
 
+
+    
 
 ## License
 
