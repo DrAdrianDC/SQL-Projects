@@ -1,5 +1,5 @@
 
-# Project 1: 
+# Project 1: Creating a Database of the Periodic Table of Elements
 
 
 
