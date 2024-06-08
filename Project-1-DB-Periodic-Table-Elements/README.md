@@ -5,6 +5,14 @@ This project involves creating a detailed SQL database for the periodic table of
 
 
 
+In conclusion, the project includes the following highlightss:
+* Utilizes data from the Royal Society of Chemistry for reliability.
+* Provides detailed steps for downloading, creating the database, loading data, and running queries.
+* Includes comprehensive exploratory data analysis with multiple visualizations.
+  
+This project is a valuable addition to a data science portfolio.
+
+
 
 # Requirements
 
