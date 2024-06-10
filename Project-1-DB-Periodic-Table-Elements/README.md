@@ -16,6 +16,9 @@ This project is a valuable addition to a data science portfolio.
 
 # Requirements
 
+* Python 3.8.3
+* Pandas 1.0.5
+
 
 
 # Dataset
