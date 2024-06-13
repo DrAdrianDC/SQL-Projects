@@ -18,6 +18,7 @@ This project is a valuable addition to a data science portfolio.
 
 * Python 3.8.3
 * Pandas 1.0.5
+* Sqlite3 3.32.3
 
 
 
