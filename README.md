@@ -2,8 +2,8 @@
 
 Welcome to my SQL Projects repository! Here you'll find a collection of projects that showcase my proficiency in SQL and data analysis. Each project includes detailed SQL queries, exploratory data analysis (EDA), and visualizations to provide insights into various datasets. Below is a summary of the featured projects:
 
-#### Project 1: Creating a Database of the Periodic Table of Elements
-    Description: This project involves creating a detailed SQL database for the periodic table of elements using data from the (source), populating it with comprehensive data, running various SQL queries, and performing exploratory data analysis using plots to visualize trends and patterns.
+#### Project 1: 
+    Description:
     Tools & Techniques: 
     Links: GitHub Repository  
 
