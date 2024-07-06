@@ -4,7 +4,7 @@ This project tracks and analyzes COVID-19 case numbers and death rates using the
 
 ## Datasets
 
-- WHO COVID-19 dataset: [WHO-COVID-19-global-data.csv]([https://data.who.int/dashboards/covid19/data])
+- WHO COVID-19 dataset: [WHO-COVID-19-global-data.csv][https://data.who.int/dashboards/covid19/data]
 
 ## Skills Highlighted
 
