@@ -14,3 +14,18 @@ This project involves tracking and analyzing COVID-19 case numbers, vaccination 
     Visualization
 
 ### Repository Structure
+
+COVID-19-Data-Analysis/
+├── data/
+│   ├── covid19_cases.csv
+│   ├── covid19_vaccinations.csv
+│   └── covid19_recoveries.csv
+├── sql/
+│   ├── create_tables.sql
+│   ├── data_transformation.sql
+│   ├── time_series_analysis.sql
+│   └── visualizations.sql
+├── notebooks/
+│   └── covid19_analysis.ipynb
+├── README.md
+└── LICENSE
