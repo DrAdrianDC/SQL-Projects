@@ -10,7 +10,7 @@
 
 Here you'll find a collection of projects that showcase my proficiency in SQL and data analysis. Each project includes detailed SQL queries, Exploratory Data Analysis (EDA), and visualizations to provide insights into various datasets. Below is a summary of the featured projects:
 
-#### Project: 
+#### Project: Global Temperature Analysis
     Description: 
     Tools & Techniques: 
     Links: GitHub Repository  
