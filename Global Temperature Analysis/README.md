@@ -1,8 +1,6 @@
 # Global Temperature Data Analysis
 
 
-## Overview
-
 This project involves analyzing global temperature data to identify trends, anomalies, and patterns over time.
 
 ## Dataset
@@ -10,3 +8,8 @@ This project involves analyzing global temperature data to identify trends, anom
 The dataset used here is  Global Land Temperatures by Country from Kaggle. You can find it at the following link:
 
 https://www.kaggle.com/datasets/vijayvvenkitesh/global-land-temperatures-by-country?resource=download
+
+## Overview
+
+The dataset contains information on monthly average temperatures for different countries, and the analysis will focus on extracting meaningful insights, such as the average temperature over time, identifying the hottest and coldest years, and understanding seasonal variations.
+
