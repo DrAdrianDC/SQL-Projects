@@ -16,7 +16,7 @@ Here you'll find a collection of projects that showcase my proficiency in SQL an
     Links: GitHub Repository  
 
 
-#### Project: Financial Analysis
+#### Project: Financial and Data Analytics
     Description: This project combines a variety of financial metrics such as volatility, price growth, volume trends, and portfolio analysis.
     Tools & Techniques: 
     Links: GitHub Repository  
