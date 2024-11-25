@@ -9,3 +9,6 @@ This project demonstrates how to analyze stock market data using yfinance for da
   *  Use SQL to perform advanced queries for financial insights.
   *  Explore topics such as price trends, volatility, correlation, and portfolio performance.
 
+### Dataset
+
+The dataset is stored in the data folder. The data is collected with yfinance Python library
