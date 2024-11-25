@@ -1,3 +1,3 @@
 ## Dataset
 
-Data Collection with yfinance
+Data Collection with yfinance Python library.
