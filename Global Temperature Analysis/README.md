@@ -11,12 +11,12 @@ The dataset contains information on monthly average temperatures for different c
 
 
 
-Objective
+### Objective
 The dataset contains monthly average temperature records for various countries. The analysis aims to extract actionable insights, including:
 
-    Tracking changes in average temperatures over time.
-    Identifying the hottest and coldest years.
-    Examining seasonal variations and their impact.
+   * Tracking changes in average temperatures over time.
+   * Identifying the hottest and coldest years.
+   * Examining seasonal variations and their impact.
 
 This project provides a comprehensive understanding of global temperature dynamics to inform future climate-related studies and decision-making.
 
