@@ -1,6 +1,6 @@
 ## Dataset
 
-Data Collection Using the **yfinance** Python Library for Financial Analysis
+Data Collection using the **yfinance** Python library for Financial Analysis
 
 
 ## Usage 
