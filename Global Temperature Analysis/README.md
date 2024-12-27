@@ -1,12 +1,24 @@
 # Global Temperature Data Analysis
 
 
-This project involves analyzing global temperature data to identify trends, anomalies, and patterns over time.
-
+This project focuses on analyzing global temperature data to uncover long-term trends, anomalies, and patterns over time.
 
 ### Main goal
 
 The dataset contains information on monthly average temperatures for different countries, and the analysis will focus on extracting meaningful insights, such as the average temperature over time, identifying the hottest and coldest years, and understanding seasonal variations.
+
+
+
+
+
+Objective
+The dataset contains monthly average temperature records for various countries. The analysis aims to extract actionable insights, including:
+
+    Tracking changes in average temperatures over time.
+    Identifying the hottest and coldest years.
+    Examining seasonal variations and their impact.
+
+This project provides a comprehensive understanding of global temperature dynamics to inform future climate-related studies and decision-making.
 
 
 ### Dataset
