@@ -3,13 +3,6 @@
 
 This project focuses on analyzing global temperature data to uncover long-term trends, anomalies, and patterns over time.
 
-### Main goal
-
-The dataset contains information on monthly average temperatures for different countries, and the analysis will focus on extracting meaningful insights, such as the average temperature over time, identifying the hottest and coldest years, and understanding seasonal variations.
-
-
-
-
 
 ### Objective
 The dataset contains monthly average temperature records for various countries. The analysis aims to extract actionable insights, including:
