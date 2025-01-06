@@ -8,7 +8,7 @@
 
 ### Welcome to my SQL Projects repository!
 
-Here you will find a collection of projects that showcase my proficiency in SQL and data analysis. Each project includes detailed SQL queries, Exploratory Data Analysis (EDA), and visualizations to provide insights into various datasets. Below is a summary of the featured projects:
+Here you will find a collection of projects that showcase my proficiency in SQL and data analysis. Each project includes detailed **SQL queries**, **Exploratory Data Analysis (EDA)**, and **visualizations** to provide insights into various datasets. Below is a summary of the featured projects:
 
 #### Project: Global Temperature Analysis
     Description: This project involves analyzing global temperatures data to identify trends, anomalies, and patterns over time.
