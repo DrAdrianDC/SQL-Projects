@@ -11,7 +11,7 @@ The dataset contains monthly average temperature records for various countries. 
    * Identifying the hottest and coldest years.
    * Examining seasonal variations and their impact.
 
-This project provides a comprehensive understanding of global temperature dynamics to inform future climate-related studies and decision-making.
+This project provides a comprehensive understanding of **global temperature dynamics** to inform future climate-related studies and decision-making.
 
 
 ### Dataset
